@@ -2,7 +2,7 @@
 
 Learn to code with us. We have created a new way of learning and put together an innovative curriculum beyond what you can learn in a traditional classroom. 
 
-For now, we specialize in software design, infrastructure architecture and building microservices, and will expand into areas such as artificial intelligence and robotics in the future. 
+For now, we specialize in building engineers and problem solvers. We will cover areas such as software design, infrastructure architecture and microservices, and will expand into areas such as artificial intelligence and robotics in the future.
 
 Currently, we will start offering courses on:
 
@@ -17,7 +17,7 @@ Currently, we will start offering courses on:
 * django
 
 #### version control
-* git and mercurial
+* git and open source
 
 
 Our curriculum has been vetted by the community and will continue to be based on what latest and current best practices are for each individual topic. 
